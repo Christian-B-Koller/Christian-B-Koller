@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Christian-B-Koller
-- 👀 I’m interested in C# and Delta Forth.net
-- 🌱 I’m currently learning C# and Forth.net
-- 💞️ I’m looking to collaborate on Cellular Automatons
+- 👀 I’m interested in AI, LLMs as well as Agentic Systems, Frameworks and applications
+- 🌱 I’m currently learning Python and how to build Agentic LLM/AI applications and systems
+- 💞️ I’m collaborating in the field of Agentic AI applications
 - 📫 How to reach me: christian.boris.koller@gmail.com
 
 <!---
